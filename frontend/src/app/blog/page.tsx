@@ -105,7 +105,7 @@ export default async function BlogPage({ searchParams }: Props) {
       </h2>
 
       <p className="mt-3 text-sm text-slate">
-        We're working on our first articles. Check back soon.
+        We&apos;re working on our first articles. Check back soon.
       </p>
 
     </div>

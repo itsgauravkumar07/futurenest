@@ -533,7 +533,7 @@ export default async function HomePage() {
             <p className="eyebrow mb-3 text-center">Pricing</p>
             <h2 className="text-center text-3xl">Tailored Success Plans</h2>
             <p className="mx-auto mt-3 max-w-lg text-center text-sm text-slate">
-              Pay for qualified outcomes, not exposure — whether you're listing a property or looking
+              Pay for qualified outcomes, not exposure — whether you&apos;re listing a property or looking
               for one.
             </p>
 
@@ -567,7 +567,7 @@ export default async function HomePage() {
 
               <p className="mx-auto mt-5 max-w-2xl text-sm leading-7 text-slate">
                 Pay for qualified outcomes, not exposure. Choose a plan that fits
-                whether you're listing properties or searching for your next home.
+                whether you&apos;re listing properties or searching for your next home.
               </p>
 
             </div>
@@ -607,7 +607,7 @@ export default async function HomePage() {
 
       <p className="mx-auto mt-5 max-w-2xl text-sm leading-7 text-slate">
         Everything you need to know about buying, selling, renting, and using
-        FutureNest's verified lead generation platform.
+        FutureNest&apos;s verified lead generation platform.
       </p>
 
     </div>

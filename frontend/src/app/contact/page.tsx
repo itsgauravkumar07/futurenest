@@ -34,7 +34,7 @@ export default function ContactPage() {
 
     <p className="mx-auto mt-4 max-w-2xl text-sm leading-7 text-slate">
       Questions about a property, pricing, or how FutureNest works?
-      We're here to help.
+      We&apos;re here to help.
     </p>
 
   </div>

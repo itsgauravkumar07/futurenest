@@ -29,7 +29,7 @@ export default function SellerSharedLeadsPage() {
       {leads.length === 0 ? (
         <div className="card mt-8 p-12 text-center">
           <p className="text-lg font-medium">No shared leads yet</p>
-          <p className="mt-1 text-sm text-slate">Once our team qualifies interest on your properties, they'll appear here with contact details.</p>
+          <p className="mt-1 text-sm text-slate">Once our team qualifies interest on your properties, they&apos;ll appear here with contact details.</p>
         </div>
       ) : (
         <div className="card mt-6 divide-y divide-line overflow-hidden">
