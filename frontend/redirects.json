@@ -1,0 +1,11 @@
+{
+  "_comment": "301 redirects from old WordPress URLs (root-level, e.g. futurenestproperty.in/some-slug/) to new URLs (futurenestproperty.in/blog/some-slug). 'permanent: true' sends a 301 — this is what tells Google to transfer ranking signals to the new URL. When you paste the full list of ~30 old URLs, Claude will fill in every entry below.",
+
+  "redirects": [
+    {
+      "source": "/what-to-know-when-you-buy-a-land-in-dehradun/",
+      "destination": "/blog/what-to-know-when-you-buy-a-land-in-dehradun",
+      "permanent": true
+    }
+  ]
+}
