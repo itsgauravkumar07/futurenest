@@ -172,7 +172,7 @@ export default function ContactPage() {
       </h2>
 
       <p className="mt-2 text-sm text-slate">
-        Fill out the form below and we'll get back to you shortly.
+        Fill out the form below and we&apos;ll get back to you shortly.
       </p>
 
       <div className="my-7 h-px bg-line" />
